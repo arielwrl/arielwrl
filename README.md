@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **arielwrl/arielwrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I used to be an astronomer like you, but then I took an arrow in the knee :dizzy:
+
