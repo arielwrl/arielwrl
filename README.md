@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Scikit=Learn](https://img.shields.io/badge/-Scikit--Learn-2396F3?style=flat&logo=scikitlearn)
 ![Tensorflow](https://img.shields.io/badge/-TensorFlow-768CFF?style=flat&logo=tensorflow)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-40AEF0?style=flat&logo=postgresql)
-![Bash](https://img.shields.io/badge/-gnubash-133111?style=flat&logo=gnubash)
+![Bash](https://img.shields.io/badge/-Bash-133111?style=flat&logo=gnubash)
 ![LaTex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex)
 
 🌱 I have been tinkering with ...
