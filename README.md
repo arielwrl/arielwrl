@@ -38,7 +38,11 @@ Here are some ideas to get you started:
 ![huggingface](https://img.shields.io/badge/-Hugging_Face-000000?style=flat&logo=huggingface)
 
 
+### Projects
 
-
+[starlight_toolkit](https://github.com/arielwrl/starlight_toolkit): A toolbox to organize output data from the Starlight spectral synthesis code (Cid Fernandes et al., 2005; Werle et al. 2019).
+[pysinopsis](https://github.com/arielwrl/pysinopsis): This is a similar toolbox made for pre-processing and analysing the hyperspectral imaging data of the [GASP project](https://web.oapd.inaf.it/gasp/).
+[arielwrl.github.io](https://github.com/arielwrl/arielwrl.github.io): Personal website including a blog, built with eleventy, pico CSS, and love.
+[river_mapper](https://github.com/arielwrl/river_mapper) (in development): I have always been curious to know where rivers go, and this curiosity has grown since I moved to Rotterdam. This project uses data from [HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers), results for Rotterdam are currently incomplete due to the limitations of HydroRIVERS in river delta regions, but the code gives good results in less complex regions.
 
 
