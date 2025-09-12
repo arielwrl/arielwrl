@@ -52,4 +52,9 @@ Personal website including a blog, built with eleventy, pico CSS, and love.
 #### [river_mapper](https://github.com/arielwrl/river_mapper) (in development) 
 I have always been curious to know where rivers go, and this curiosity has grown since I moved to Rotterdam. This project uses data from [HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers), results for Rotterdam are currently incomplete due to the limitations of HydroRIVERS in river delta regions, but the code gives good results in less complex regions.
 
+### [local_llm](https://github.com/arielwrl/local_llm)
+This is a painfully experimental project that uses WebLLM to run a chatbot locally with WebGPU. It is a nice proof of concept, but requires very good hardware to work properly.
+
+### [BAGPIPES-activity](https://github.com/arielwrl/BAGPIPES-activity)
+Lessons in Bayesian inference of galaxy properties using BAGPIPES.
 
