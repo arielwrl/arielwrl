@@ -47,7 +47,7 @@ A toolbox to organize output data from the Starlight spectral synthesis code (Ci
 This is a similar toolbox made for pre-processing and analysing the hyperspectral imaging data of the [GASP project](https://web.oapd.inaf.it/gasp/).
 
 #### [arielwrl.github.io](https://github.com/arielwrl/arielwrl.github.io) 
-Personal website including a blog, built with eleventy, pico CSS, and love.
+Personal website including a blog. Built with eleventy, nunjunks, pico CSS, and love.
 
 #### [river_mapper](https://github.com/arielwrl/river_mapper) (in development) 
 I have always been curious to know where rivers go, and this curiosity has grown since I moved to Rotterdam. This project uses data from [HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers) to map a river network from a starting point. Results for Rotterdam are currently incomplete due to the limitations of HydroRIVERS in river delta regions, but the code gives good results in less complex regions.
