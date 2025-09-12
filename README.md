@@ -59,4 +59,4 @@ This is a painfully experimental project that uses WebLLM to run a chatbot local
 Lessons in Bayesian inference of galaxy properties using BAGPIPES.
 
 ### Publications
-Also, you can check my list of publications [here](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22werle%2C%20ariel%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+You can check my list of publications [here](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22werle%2C%20ariel%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
