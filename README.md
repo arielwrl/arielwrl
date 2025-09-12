@@ -47,10 +47,10 @@ A toolbox to organize output data from the Starlight spectral synthesis code (Ci
 This is a similar toolbox made for pre-processing and analysing the hyperspectral imaging data of the [GASP project](https://web.oapd.inaf.it/gasp/).
 
 #### [arielwrl.github.io](https://github.com/arielwrl/arielwrl.github.io) 
-Personal website including a blog. Built with eleventy, nunjunks, pico CSS, and love.
+[Personal website](https://arielwrl.github.io) including a blog. Built with eleventy, nunjunks, pico CSS, and love.
 
 #### [river_mapper](https://github.com/arielwrl/river_mapper) (in development) 
-I have always been curious to know where rivers go, and this curiosity has grown since I moved to Rotterdam. This project uses data from [HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers) to map a river network from a starting point. Results for Rotterdam are currently incomplete due to the limitations of HydroRIVERS in river delta regions, but the code gives good results in less complex regions.
+I have always been curious to know where rivers go, and this curiosity has grown since I moved to Rotterdam. This project uses data from [HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers) to map a river network from a starting point. Results for Rotterdam (see [here](https://arielwrl.github.io/assets/rotterdam_river_map.html)) are currently incomplete due to the limitations of HydroRIVERS in river delta regions, but the code gives good results in less complex regions. 
 
 #### [local_llm](https://github.com/arielwrl/local_llm)
 This is a painfully experimental project that uses WebLLM to run a chatbot locally with WebGPU. It is a nice proof of concept, but requires very good hardware to work properly.
@@ -58,4 +58,5 @@ This is a painfully experimental project that uses WebLLM to run a chatbot local
 #### [BAGPIPES-activity](https://github.com/arielwrl/BAGPIPES-activity)
 Lessons in Bayesian inference of galaxy properties using BAGPIPES.
 
+### Publications
 Also, you can check my list of publications [here](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22werle%2C%20ariel%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
