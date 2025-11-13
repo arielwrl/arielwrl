@@ -49,9 +49,6 @@ This is a similar toolbox made for pre-processing and analysing the hyperspectra
 #### [arielwrl.github.io](https://github.com/arielwrl/arielwrl.github.io) 
 [Personal website](https://arielwrl.github.io) including a blog. Built with eleventy, nunjunks, pico CSS, and love.
 
-#### [river_mapper](https://github.com/arielwrl/river_mapper) (in development) 
-I have always been curious to know where rivers go, and this curiosity has grown since I moved to Rotterdam. This project uses data from [HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers) to map a river network from a starting point. Results for Rotterdam (see [here](https://arielwrl.github.io/assets/rotterdam_river_map.html)) are currently incomplete due to the limitations of HydroRIVERS in river delta regions, but the code gives good results in less complex regions. 
-
 #### [local_llm](https://github.com/arielwrl/local_llm)
 This is a painfully experimental project that uses WebLLM to run a chatbot locally with WebGPU. It is a nice proof of concept, but requires very good hardware to work properly.
 
